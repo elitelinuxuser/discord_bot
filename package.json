@@ -1,0 +1,11 @@
+{
+  "name": "raidbot",
+  "version": "1.0.0",
+  "description": "A bot that is used to select random streamers to raid 'em",
+  "main": "index.js",
+  "author": "Lucifer",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
